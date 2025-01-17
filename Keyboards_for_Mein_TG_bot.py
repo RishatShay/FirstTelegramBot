@@ -1,7 +1,7 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 
 
-TOKEN = '6211270663:AAFhDXq43F-saaQetL2BCqKa9scLIiIO544'  #telegram API token
+TOKEN = '6211270663:AAFhDXq43F-saaQetL2BCqKa9scLIiIO544'  #not real telegram API token
 
 # string with all emojies to take random (10)
 EMOJIES = '❤️👍👎💋😀😍🤣😅😎🥳'
